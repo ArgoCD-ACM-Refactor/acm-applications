@@ -19,7 +19,7 @@ spec:
       source:
         repoURL: https://github.com/ArgoCD-ACM-Refactor/acm-demo-pacman.git
         targetRevision: main
-        path: day2-cluster-config/namespaces/overlays/{{cluster.name}}
+        path: overlays/{{cluster.name}}
       destination:
         server: '{{cluster.address}}'
       syncPolicy:
