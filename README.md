@@ -1,2 +1,4 @@
 # acm-applications
-Repo with all the ApplicationSet to deploy the Apps
+why a folder??
+
+only to be compliance with all the rest of repositories folders tree
